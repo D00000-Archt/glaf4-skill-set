@@ -1,7 +1,7 @@
 {
-  "name": "glaf4-test",
+  "name": "glaf4-skill-set",
   "interface": {
-    "displayName": "GLAF4 Test"
+    "displayName": "GLAF4 Skill Set"
   },
   "plugins": [
     {
