@@ -2,9 +2,9 @@
 
 # glaf4-skill-set
 
-A marketplace index of GLAF4 plugins for AI IDEs, currently distributing to Claude Code and OpenAI Codex。
+GLAF4 AI IDE 插件市场索引，当前分发至 Claude Code 和 OpenAI Codex。
 
-**市场项目版本：** `20260728033704`
+**市场项目版本：** `20260728041643`
 
 本仓库仅包含市场清单；插件本身的实现在各自的仓库中。
 
