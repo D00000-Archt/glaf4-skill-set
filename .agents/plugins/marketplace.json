@@ -9,8 +9,8 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ifoohoo/glaf4-test",
-        "ref": "ad5beaa3fecce8e122ca95c356cd54503ff6a37d",
-        "sha": "ad5beaa3fecce8e122ca95c356cd54503ff6a37d"
+        "ref": "d0daefde7ace98be20c99b323f6b9b9017dbbc5d",
+        "sha": "d0daefde7ace98be20c99b323f6b9b9017dbbc5d"
       },
       "policy": {
         "installation": "AVAILABLE",
