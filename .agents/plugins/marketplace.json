@@ -1,0 +1,22 @@
+{
+  "name": "glaf4-test",
+  "interface": {
+    "displayName": "GLAF4 Test"
+  },
+  "plugins": [
+    {
+      "name": "glaf4-test",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ifoohoo/glaf4-test",
+        "ref": "bd769d78575170456adf1de93b9e9d8765690636",
+        "sha": "bd769d78575170456adf1de93b9e9d8765690636"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Testing"
+    }
+  ]
+}
