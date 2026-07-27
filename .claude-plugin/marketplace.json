@@ -13,7 +13,7 @@
         "repo": "ifoohoo/glaf4-test"
       },
       "description": "GLAF4 Java testing skills for Claude Code: initialization, legacy unit completion, and development-iteration test workflows.",
-      "version": "0.2.1"
+      "version": "0.2.2"
     }
   ]
 }
