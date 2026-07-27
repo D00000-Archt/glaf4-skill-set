@@ -17,7 +17,7 @@ This repository contains only the marketplace manifests — plugin implementatio
 
 | Plugin | Version | Source | Claude Code | Codex |
 | --- | --- | --- | --- | --- |
-| glaf4-test | 0.2.1 | `ifoohoo/glaf4-test` | ✓ | ✓ |
+| glaf4-test | 0.2.2 | `ifoohoo/glaf4-test` | ✓ | ✓ |
 
 After adding the marketplace, install plugins with your platform's plugin manager (e.g. `/plugin install glaf4-test@glaf4-skill-set` in Claude Code).
 
