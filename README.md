@@ -2,6 +2,8 @@
 
 AI IDE plugin marketplace index for GLAF4, covering Claude Code and OpenAI Codex.
 
+**Marketplace version:** `20260727120540`
+
 This repository contains only the marketplace manifests — plugin implementations live in their own repositories.
 
 ## Add this marketplace

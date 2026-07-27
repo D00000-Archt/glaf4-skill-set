@@ -9,7 +9,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ifoohoo/glaf4-test",
-        "ref": "bd769d78575170456adf1de93b9e9d8765690636",
+        "ref": "refs/tags/v0.2.2",
         "sha": "bd769d78575170456adf1de93b9e9d8765690636"
       },
       "policy": {

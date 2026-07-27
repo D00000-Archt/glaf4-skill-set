@@ -1,8 +1,10 @@
 {
   "name": "glaf4-test",
+  "description": "AI IDE plugin marketplace index for GLAF4, covering Claude Code and OpenAI Codex",
   "owner": {
     "name": "D00000-Archt"
   },
+  "version": "20260727120540",
   "plugins": [
     {
       "name": "glaf4-test",
