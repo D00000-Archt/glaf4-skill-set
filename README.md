@@ -4,7 +4,7 @@
 
 A marketplace index of GLAF4 plugins for AI IDEs, currently distributing to Claude Code and OpenAI Codex.
 
-**Marketplace version:** `20260728041643`
+**Marketplace version:** `20260728194953`
 
 This repository contains only marketplace manifests; the plugins themselves live in their own repositories.
 
