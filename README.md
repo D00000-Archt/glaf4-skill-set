@@ -4,7 +4,7 @@
 
 A marketplace index of GLAF4 plugins for AI IDEs, currently distributing to Claude Code and OpenAI Codex.
 
-**Marketplace version:** `20260728194953`
+**Marketplace version:** `20260728202317`
 
 This repository contains only marketplace manifests; the plugins themselves live in their own repositories.
 
@@ -31,7 +31,7 @@ OpenAI Codex uses HTTPS by default and does not require SSH configuration.
 
 | Plugin | Description | Version | Source | Claude Code | Codex |
 | --- | --- | --- | --- | --- | --- |
-| glaf4-test | GLAF4 Java testing skills for Claude Code: initialization, legacy unit completion, and development-iteration test workflows. | 0.2.2 | [ifoohoo/glaf4-test](https://github.com/ifoohoo/glaf4-test) | ✓ | ✓ |
+| glaf4-test | GLAF4 Java testing skills for Claude Code: initialization, legacy unit completion, and development-iteration test workflows. | 0.2.3 | [ifoohoo/glaf4-test](https://github.com/ifoohoo/glaf4-test) | ✓ | ✓ |
 ## Contributing
 
 This repository is a published snapshot. To request adding a new plugin, please open an issue in the [workspace repository](https://github.com/D00000-Archt/glaf4-skill-set-workspace). Documentation changes should not be submitted as pull requests to this repository.
