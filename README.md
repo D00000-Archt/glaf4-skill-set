@@ -31,7 +31,7 @@ OpenAI Codex uses HTTPS by default and does not require SSH configuration.
 
 | Plugin | Description | Version | Source | Claude Code | Codex |
 | --- | --- | --- | --- | --- | --- |
-| glaf4-test | GLAF4 Java testing skills for Claude Code: initialization, legacy unit completion, and development-iteration test workflows. | 0.2.3 | [ifoohoo/glaf4-test](https://github.com/ifoohoo/glaf4-test) | ✓ | ✓ |
+| glaf4-test | GLAF4 Java testing skills for Claude Code: initialization, legacy unit completion, and development-iteration test workflows. | 0.2.4 | [ifoohoo/glaf4-test](https://github.com/ifoohoo/glaf4-test) | ✓ | ✓ |
 ## Contributing
 
 This repository is a published snapshot. To request adding a new plugin, please open an issue in the [workspace repository](https://github.com/D00000-Archt/glaf4-skill-set-workspace). Documentation changes should not be submitted as pull requests to this repository.

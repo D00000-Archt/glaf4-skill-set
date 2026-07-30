@@ -31,7 +31,7 @@ OpenAI Codex 默认使用 HTTPS，无需 SSH 配置。
 
 | 插件 | 描述 | 版本 | 来源 | Claude Code | Codex |
 | --- | --- | --- | --- | --- | --- |
-| glaf4-test | GLAF4 Java testing skills for Claude Code: initialization, legacy unit completion, and development-iteration test workflows. | 0.2.3 | [ifoohoo/glaf4-test](https://github.com/ifoohoo/glaf4-test) | ✓ | ✓ |
+| glaf4-test | GLAF4 Java testing skills for Claude Code: initialization, legacy unit completion, and development-iteration test workflows. | 0.2.4 | [ifoohoo/glaf4-test](https://github.com/ifoohoo/glaf4-test) | ✓ | ✓ |
 ## 收录流程
 
 本仓库为发布快照。如需收录新插件，请在 [workspace 仓库](https://github.com/D00000-Archt/glaf4-skill-set-workspace) 中提交 issue。文档类修改请勿直接向本仓库提交 pull request。
