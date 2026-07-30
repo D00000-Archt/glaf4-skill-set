@@ -4,7 +4,7 @@
   "owner": {
     "name": "D00000-Archt"
   },
-  "version": "20260730142300",
+  "version": "20260730143636",
   "plugins": [
     {
       "name": "glaf4-test",
@@ -12,7 +12,7 @@
         "source": "github",
         "repo": "ifoohoo/glaf4-test"
       },
-      "description": "GLAF4 Java testing skills for Claude Code: initialization, legacy unit completion, and development-iteration test workflows.",
+      "description": "GLAF4 Java testing skills for Codex and Claude Code: initialization, legacy unit completion, and development-iteration test workflows.",
       "version": "0.2.4"
     }
   ]
