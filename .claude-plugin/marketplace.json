@@ -4,8 +4,17 @@
   "owner": {
     "name": "D00000-Archt"
   },
-  "version": "20260730143636",
+  "version": "20260817183734",
   "plugins": [
+    {
+      "name": "glaf4-dev",
+      "source": {
+        "source": "github",
+        "repo": "D00000-Archt/glaf4-dev"
+      },
+      "description": "GLAF4 Java development skills for Claude Code: project initialization scaffolding and development-iteration workflows with specification checks and evidence-gated code writing.",
+      "version": "0.2.0"
+    },
     {
       "name": "glaf4-test",
       "source": {
