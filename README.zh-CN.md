@@ -4,9 +4,9 @@
 
 GLAF4 AI IDE 插件市场索引，当前分发至 Claude Code 和 OpenAI Codex。
 
-**市场项目版本：** `20260817183734`
+**市场项目版本：** `20260822232143`
 
-**作者：** D00000-Archt、mzdbxqh
+**作者：** GTMC GLAF4
 
 本仓库仅包含市场清单；插件本身的实现在各自的仓库中。
 
@@ -33,7 +33,6 @@ OpenAI Codex 默认使用 HTTPS，无需 SSH 配置。
 
 | 插件 | 描述 | 版本 | 来源 | Claude Code | Codex |
 | --- | --- | --- | --- | --- | --- |
-| glaf4-dev | GLAF4 Java development skills for Claude Code: project initialization scaffolding and development-iteration workflows with specification checks and evidence-gated code writing. | 0.2.0 | [D00000-Archt/glaf4-dev](https://github.com/D00000-Archt/glaf4-dev) | ✓ | — |
 | glaf4-test | GLAF4 Java testing skills for Codex and Claude Code: initialization, legacy unit completion, and development-iteration test workflows. | 0.2.4 | [ifoohoo/glaf4-test](https://github.com/ifoohoo/glaf4-test) | ✓ | ✓ |
 ## 收录流程
 
@@ -41,4 +40,4 @@ OpenAI Codex 默认使用 HTTPS，无需 SSH 配置。
 
 ## 许可证
 
-MIT 许可证 — 详见 [LICENSE](LICENSE)。
+专有软件 — Copyright (c) 2026 GTMC GLAF4，保留所有权利。详见 [LICENSE](LICENSE)。
